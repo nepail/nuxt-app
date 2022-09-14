@@ -1,0 +1,1 @@
+export const useDark = 'yes'
