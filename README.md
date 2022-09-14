@@ -2,6 +2,8 @@
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
+[https://dishait.github.io/MShared/nuxt3/start/introduce.html#nuxt3](https://dishait.github.io/MShared/nuxt3/start/introduce.html#nuxt3)
+
 ## Setup
 
 Make sure to install the dependencies:
